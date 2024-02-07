@@ -1,0 +1,4 @@
+allprojects {
+    group "net.pranonraian"
+    version "2024.0.0.0"
+}
